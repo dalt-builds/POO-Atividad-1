@@ -8,9 +8,9 @@ Materia: Programacion orientada a objetos
 
 Descripcion:
     Ejercicio 1:
-        Un empleado trabaja 48 horas en la semana a razón de $5.000 hora. El porcentaje de
-        retención en la fuente es del 12,5% del salario bruto. Se desea saber cuál es el salario bruto,
-        la retención en la fuente y el salario neto del trabajador.
+        A la mamá de Juan le preguntan su edad, y contesta: tengo 3 hijos, pregúntele a Juan su
+        edad. Alberto tiene 2/3 de la edad de Juan, Ana tiene 4/3 de la edad de Juan y mi edad es
+        la suma de las tres. Hacer un algoritmo que muestre la edad de los cuatro.
 =====================================
 */
 
